@@ -1,4 +1,4 @@
- algoritimo 1: Cadastro de Aluno
+
 nome_aluno = input("Digite o nome do aluno: ")
 idade_aluno = int(input("Digite a idade do aluno: "))
 nota_media = float(input("Digite a nota média do aluno: "))
